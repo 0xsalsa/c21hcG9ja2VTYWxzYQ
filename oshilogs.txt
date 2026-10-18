@@ -12,52 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Salsa =====
-[1]Salsa       |08:27:32 | 17-10-2026| login OK @yurimasalsa | score=1340 rank=4842
-[1]Salsa       |08:27:32 | 17-10-2026| serverTime=2026-10-17T08:27:31.000Z local=2026-10-17T08:27:32.163Z
+[1]Salsa       |09:21:35 | 18-10-2026| login OK @yurimasalsa | score=1380 rank=4845
+[1]Salsa       |09:21:35 | 18-10-2026| serverTime=2026-10-18T09:21:35.000Z local=2026-10-18T09:21:35.968Z
 --> [1]Salsa menjalankan: Claim Daily
-[1]Salsa       |08:27:33 | 17-10-2026| daily: OK +10 poin score=1350
---> [1]Salsa menjalankan: Auto All Tasks (3 pending)
-[1]Salsa       |08:27:35 | 17-10-2026| [1/3] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/yurimasalsa/status/2111373133469125213
-[1]Salsa       |08:27:35 | 17-10-2026| delay 10s...
-[1]Salsa       |08:27:47 | 17-10-2026| [2/3] 88c776e0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/yurimasalsa/status/2111372994561947771
-[1]Salsa       |08:27:47 | 17-10-2026| delay 10s...
-[1]Salsa       |08:27:58 | 17-10-2026| [3/3] cc2ba95b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211070668870173 | proof=https://x.com/yurimasalsa/status/2111373082817912067
-[1]Salsa       |08:27:58 | 17-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Salsa       |08:28:00 | 17-10-2026| [1/1] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"394defc6-77a7-4d1a-bf20-4fe560dc875f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110706688701735 | proof=https://x.com/yurimasalsa/status/2111373195138753525
+[1]Salsa       |09:21:40 | 18-10-2026| daily: OK +10 poin score=1390
+--> [1]Salsa menjalankan: Auto All Tasks (5 pending)
+[1]Salsa       |09:21:45 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/yurimasalsa/status/2111749159011911213
+[1]Salsa       |09:21:45 | 18-10-2026| delay 10s...
+[1]Salsa       |09:21:59 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/yurimasalsa/status/2111749332337450130
+[1]Salsa       |09:21:59 | 18-10-2026| delay 10s...
+[1]Salsa       |09:22:14 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/yurimasalsa/status/2111749106260221995
+[1]Salsa       |09:22:14 | 18-10-2026| delay 10s...
+[1]Salsa       |09:22:26 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
+[1]Salsa       |09:22:26 | 18-10-2026| delay 10s...
+[1]Salsa       |09:22:39 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/yurimasalsa/status/2111749502720772918
+[1]Salsa       |09:22:39 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Salsa       |09:22:41 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/yurimasalsa/status/2111749515228572911
 --> [1]Salsa menjalankan: Watch Anime
-[1]Salsa       |08:28:01 | 17-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Salsa       |08:28:01 | 17-10-2026| watch [1/3] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Salsa       |08:28:03 | 17-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Salsa       |08:28:08 | 17-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Salsa       |08:28:10 | 17-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Salsa       |08:28:15 | 17-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Salsa       |08:28:16 | 17-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Salsa       |09:22:43 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Salsa       |09:22:43 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +5)
+[1]Salsa       |09:22:45 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Salsa       |09:22:50 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Salsa       |09:22:53 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Salsa       |09:22:58 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Salsa       |09:22:59 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Salsa       |09:23:04 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Salsa       |09:23:06 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Salsa menjalankan: Read Article
-[1]Salsa       |08:28:18 | 17-10-2026| news: 27/27 artikel selesai dibaca
-[1]Salsa       |08:28:19 | 17-10-2026| mint eligibility: {"userId":"1917034249804517376","youtube":{"url":"https://www.youtube.com/@ysalsaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady
-[1]Salsa       |08:28:19 | 17-10-2026| news: semua artikel sudah dibaca
+[1]Salsa       |09:23:08 | 18-10-2026| news: 27/27 artikel selesai dibaca
+[1]Salsa       |09:23:09 | 18-10-2026| mint eligibility: {"userId":"1917034249804517376","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ysalsaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
+[1]Salsa       |09:23:09 | 18-10-2026| news: semua artikel sudah dibaca
 --> [1]Salsa menjalankan: Quiz Anime
-[1]Salsa       |08:28:19 | 17-10-2026| quiz ep1: sudah dijawab
-[1]Salsa       |08:28:19 | 17-10-2026| quiz ep2: sudah dijawab
-[1]Salsa       |08:28:19 | 17-10-2026| quiz ep3: sudah dijawab
-[1]Salsa       |08:28:19 | 17-10-2026| quiz ep4: sudah dijawab
-[1]Salsa       |08:28:19 | 17-10-2026| quiz ep5: sudah dijawab
-[1]Salsa       |08:28:19 | 17-10-2026| quiz ep6: sudah dijawab
+[1]Salsa       |09:23:09 | 18-10-2026| quiz ep1: sudah dijawab
+[1]Salsa       |09:23:09 | 18-10-2026| quiz ep2: sudah dijawab
+[1]Salsa       |09:23:09 | 18-10-2026| quiz ep3: sudah dijawab
+[1]Salsa       |09:23:09 | 18-10-2026| quiz ep4: sudah dijawab
+[1]Salsa       |09:23:09 | 18-10-2026| quiz ep5: sudah dijawab
+[1]Salsa       |09:23:09 | 18-10-2026| quiz ep6: sudah dijawab
 --> [1]Salsa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Salsa       |08:28:21 | 17-10-2026| music: kedua misi sudah tercapai, stop
-[1]Salsa       |08:28:22 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Salsa       |08:28:22 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Salsa       |08:28:22 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Salsa       |09:23:13 | 18-10-2026| music: kedua misi sudah tercapai, stop
+[1]Salsa       |09:23:14 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Salsa       |09:23:14 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Salsa       |09:23:14 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Salsa menjalankan: Claim Missions
-[1]Salsa       |08:28:22 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Salsa       |08:28:22 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Salsa       |08:28:22 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Salsa       |09:23:15 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Salsa       |09:23:15 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Salsa       |09:23:15 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Salsa menjalankan: Check Eligibility
 
 --- eligibility [1]Salsa ---
-  @yurimasalsa | score=1340 rank=4842
-  tasks    [###################-] 76/79
+  @yurimasalsa | score=1380 rank=4845
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -68,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Salsa menjalankan: Read Manga
-[1]Salsa       |08:28:26 | 17-10-2026| manga: 0/13 chapter belum completed
+[1]Salsa       |09:23:22 | 18-10-2026| manga: 0/13 chapter belum completed
 --> [1]Salsa menjalankan: Get Gift
-[1]Salsa       |08:28:27 | 17-10-2026| gift: 0/4 belum diterima
+[1]Salsa       |09:23:23 | 18-10-2026| gift: 0/4 belum diterima
 --> [1]Salsa menjalankan: Setup Profile
-[1]Salsa       |08:28:27 | 17-10-2026| profile: bio="https://x.com/yurimasalsa" fav=amato rewardAt=1791682046
-[1]Salsa       |08:28:27 | 17-10-2026| profile: bonus sudah diklaim, skip
+[1]Salsa       |09:23:24 | 18-10-2026| profile: bio="https://x.com/yurimasalsa" fav=amato rewardAt=1791682046
+[1]Salsa       |09:23:24 | 18-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Salsa menjalankan: Bind Wallet
-[1]Salsa       |08:28:28 | 17-10-2026| wallet: sudah terikat 7zba6CVaax... (solana)
+[1]Salsa       |09:23:24 | 18-10-2026| wallet: sudah terikat 7zba6CVaax... (solana)
 
 == RINGKASAN ==
-- Salsa: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Salsa: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
