@@ -12,71 +12,70 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Salsa =====
-[1]Salsa       |10:51:39 | 01-11-2026| login OK @yurimasalsa | score=2560 rank=3077
-[1]Salsa       |10:51:39 | 01-11-2026| serverTime=2026-11-01T10:51:39.000Z local=2026-11-01T10:51:39.966Z
+[1]Salsa       |11:44:39 | 02-11-2026| login OK @yurimasalsa | score=2670 rank=2945
+[1]Salsa       |11:44:39 | 02-11-2026| serverTime=2026-11-02T11:44:39.000Z local=2026-11-02T11:44:39.853Z
 --> [1]Salsa menjalankan: Claim Daily
-[1]Salsa       |10:51:41 | 01-11-2026| daily: OK +10 poin score=2570
---> [1]Salsa menjalankan: Auto All Tasks (10 pending)
-[1]Salsa       |10:51:44 | 01-11-2026| [1/10] 1f121fe2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/yurimasalsa/status/2116845155089851516
-[1]Salsa       |10:51:44 | 01-11-2026| delay 10s...
-[1]Salsa       |10:51:57 | 01-11-2026| [2/10] 044a9851 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/yurimasalsa/status/2116845087690008242
-[1]Salsa       |10:51:57 | 01-11-2026| delay 10s...
-[1]Salsa       |10:52:11 | 01-11-2026| [3/10] 8ac1a107 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/yurimasalsa/status/2116845356804121636
-[1]Salsa       |10:52:11 | 01-11-2026| delay 10s...
-[1]Salsa       |10:52:23 | 01-11-2026| [4/10] 7354ea5e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/yurimasalsa/status/2116845530633812125
-[1]Salsa       |10:52:23 | 01-11-2026| delay 10s...
-[1]Salsa       |10:52:36 | 01-11-2026| [5/10] 07e2b02d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/yurimasalsa/status/2116845377777023232
-[1]Salsa       |10:52:36 | 01-11-2026| delay 10s...
-[1]Salsa       |10:52:52 | 01-11-2026| [6/10] 70541c21 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/yurimasalsa/status/2116845394933708187
-[1]Salsa       |10:52:52 | 01-11-2026| delay 10s...
-[1]Salsa       |10:53:07 | 01-11-2026| [7/10] 55940470 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/yurimasalsa/status/2116845565572258643
-[1]Salsa       |10:53:07 | 01-11-2026| delay 10s...
-[1]Salsa       |10:53:21 | 01-11-2026| [8/10] 587d9c2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/yurimasalsa/status/2116845503518630117
-[1]Salsa       |10:53:21 | 01-11-2026| delay 10s...
-[1]Salsa       |10:53:34 | 01-11-2026| [9/10] 28bea61c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/yurimasalsa/status/2116845663903907061
-[1]Salsa       |10:53:34 | 01-11-2026| delay 10s...
-[1]Salsa       |10:53:46 | 01-11-2026| [10/10] 50117b4a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211683603658854 | proof=https://x.com/yurimasalsa/status/2116845581257920345
-[1]Salsa       |10:53:46 | 01-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Salsa       |10:53:49 | 01-11-2026| [1/1] 1f121fe2 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1f121fe2-f90e-44f3-bf1b-cfcc36d25eb7","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116836036588540 | proof=https://x.com/yurimasalsa/status/2116845741917716792
+[1]Salsa       |11:44:41 | 02-11-2026| daily: OK +10 poin score=2680
+--> [1]Salsa menjalankan: Auto All Tasks (8 pending)
+[1]Salsa       |11:44:43 | 02-11-2026| [1/8] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/yurimasalsa/status/2117220824495224881
+[1]Salsa       |11:44:43 | 02-11-2026| delay 10s...
+[1]Salsa       |11:44:57 | 02-11-2026| [2/8] b7ad33b1 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/yurimasalsa/status/2117221070073956816
+[1]Salsa       |11:44:57 | 02-11-2026| delay 10s...
+[1]Salsa       |11:45:12 | 02-11-2026| [3/8] 7f765e65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/yurimasalsa/status/2117220905622407162
+[1]Salsa       |11:45:12 | 02-11-2026| delay 10s...
+[1]Salsa       |11:45:30 | 02-11-2026| [4/8] 1622c12e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/yurimasalsa/status/2117221182568202261
+[1]Salsa       |11:45:30 | 02-11-2026| delay 10s...
+[1]Salsa       |11:45:43 | 02-11-2026| [5/8] 08fc1cbc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/yurimasalsa/status/2117221004177235016
+[1]Salsa       |11:45:43 | 02-11-2026| delay 10s...
+[1]Salsa       |11:45:55 | 02-11-2026| [6/8] 947c8235 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/yurimasalsa/status/2117221062398297935
+[1]Salsa       |11:45:55 | 02-11-2026| delay 10s...
+[1]Salsa       |11:46:08 | 02-11-2026| [7/8] a473652b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/yurimasalsa/status/2117221171237666498
+[1]Salsa       |11:46:08 | 02-11-2026| delay 10s...
+[1]Salsa       |11:46:20 | 02-11-2026| [8/8] 9d9a53d3 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211721997849165 | proof=https://x.com/yurimasalsa/status/2117221208701711560
+[1]Salsa       |11:46:20 | 02-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Salsa       |11:46:23 | 02-11-2026| [1/1] 909af7fe (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"909af7fe-d54e-4469-b45d-17629f252f60","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2117219978491654 | proof=https://x.com/yurimasalsa/status/2117221311598669158
 --> [1]Salsa menjalankan: Watch Anime
-[1]Salsa       |10:53:50 | 01-11-2026| watch: semua video sudah completed
+[1]Salsa       |11:46:24 | 02-11-2026| watch: semua video sudah completed
 --> [1]Salsa menjalankan: Read Article
-[1]Salsa       |10:53:52 | 01-11-2026| news: 32/33 artikel selesai dibaca
-[1]Salsa       |10:53:53 | 01-11-2026| mint eligibility: {"userId":"1917034249804517376","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ysalsaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
-[1]Salsa       |10:54:00 | 01-11-2026| news [1/1] oshi-labs-new-features-2026-11: OK completed=33
+[1]Salsa       |11:46:26 | 02-11-2026| news: 33/34 artikel selesai dibaca
+[1]Salsa       |11:46:27 | 02-11-2026| mint eligibility: {"userId":"1917034249804517376","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@ysalsaa","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nu
+[1]Salsa       |11:46:33 | 02-11-2026| news [1/1] oshi-nft-24h-volume-no2-2026-11: OK completed=34
 --> [1]Salsa menjalankan: Quiz Anime
 --> [1]Salsa menjalankan: Music Missions (realtime, bisa lama!)
-[1]Salsa       |10:54:05 | 01-11-2026| music: kedua misi sudah tercapai, stop
-[1]Salsa       |10:54:06 | 01-11-2026| mission music-listens-10: sudah diklaim
-[1]Salsa       |10:54:06 | 01-11-2026| mission music-minutes-30: sudah diklaim
-[1]Salsa       |10:54:06 | 01-11-2026| mission anime-completed-3: sudah diklaim
+[1]Salsa       |11:46:37 | 02-11-2026| music: kedua misi sudah tercapai, stop
+[1]Salsa       |11:46:38 | 02-11-2026| mission music-listens-10: sudah diklaim
+[1]Salsa       |11:46:38 | 02-11-2026| mission music-minutes-30: sudah diklaim
+[1]Salsa       |11:46:38 | 02-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Salsa menjalankan: Claim Missions
-[1]Salsa       |10:54:07 | 01-11-2026| mission music-listens-10: sudah diklaim
-[1]Salsa       |10:54:07 | 01-11-2026| mission music-minutes-30: sudah diklaim
-[1]Salsa       |10:54:07 | 01-11-2026| mission anime-completed-3: sudah diklaim
+[1]Salsa       |11:46:38 | 02-11-2026| mission music-listens-10: sudah diklaim
+[1]Salsa       |11:46:38 | 02-11-2026| mission music-minutes-30: sudah diklaim
+[1]Salsa       |11:46:38 | 02-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Salsa menjalankan: Check Eligibility
 
 --- eligibility [1]Salsa ---
-  @yurimasalsa | score=2560 rank=3077
-  tasks    [#####---------------] 3/13
+  @yurimasalsa | score=2670 rank=2945
+  tasks    [#########-----------] 7/15
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
   music    [#################---] 11/13
-  artikel  [####################] 33/33
+  artikel  [####################] 34/34
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Salsa menjalankan: Read Manga
-[1]Salsa       |10:54:12 | 01-11-2026| manga: 0/13 chapter belum completed
+[1]Salsa       |11:46:42 | 02-11-2026| manga: 0/13 chapter belum completed
 --> [1]Salsa menjalankan: Get Gift
-[1]Salsa       |10:54:12 | 01-11-2026| gift: 0/6 belum diterima
+[1]Salsa       |11:46:44 | 02-11-2026| gift: 3/9 belum diterima
+[1]Salsa       |11:46:44 | 02-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Salsa       |11:46:47 | 02-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Salsa       |11:46:50 | 02-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Salsa menjalankan: Setup Profile
-[1]Salsa       |10:54:13 | 01-11-2026| profile: bio="https://x.com/yurimasalsa" fav=amato rewardAt=1791682046
-[1]Salsa       |10:54:13 | 01-11-2026| profile: bonus sudah diklaim, skip
+[1]Salsa       |11:46:54 | 02-11-2026| profile: bio="https://x.com/yurimasalsa" fav=amato rewardAt=1791682046
+[1]Salsa       |11:46:54 | 02-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Salsa menjalankan: Bind Wallet
-[1]Salsa       |10:54:13 | 01-11-2026| wallet: sudah terikat 7zba6CVaax... (solana)
+[1]Salsa       |11:46:55 | 02-11-2026| wallet: sudah terikat 7zba6CVaax... (solana)
 
 == RINGKASAN ==
-- Salsa: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/6 diterima | profile - | wallet bound | mint req=false open=false
+- Salsa: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/9 diterima | profile - | wallet bound | mint req=false open=false
